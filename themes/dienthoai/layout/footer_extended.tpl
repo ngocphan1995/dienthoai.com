@@ -27,7 +27,7 @@
                             </form></div></div>
                 </div>
                 <div class="col-xs-24 col-sm-12 col-md-6" >
-                    <img src="{NV_BASE_SITEURL}themes/dienthoai/images/nen_facebook.jpg" width="250" height="130">
+                    <!--<img src="{NV_BASE_SITEURL}themes/dienthoai/images/nen_facebook.jpg" width="250" height="130">
                     <div class="my_page"><img src="{NV_BASE_SITEURL}themes/dienthoai/images/my_page.jpg" width="50" height="50"></div>
 
                     <a class="my_page-tt"  style="max-width: 135px;
@@ -91,7 +91,8 @@
                                 <li ><img src="{NV_BASE_SITEURL}themes/dienthoai/images/face/1.jpg" width="35" height="35"></li>
                             </ul>
                         </div>
-                    </div>
+                    </div>-->
+                    [FACEBOOK_PLUGIN]
                 </div>
             </div>
             <div class="row">
