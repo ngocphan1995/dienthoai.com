@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cms>
-	<name><![CDATA[NukeViet CMS 4.0 RC3]]></name>
-	<version><![CDATA[4.0.28]]></version>
-	<date><![CDATA[Thu, 28 Apr 2016 17:00:00 GMT]]></date>
-	<message><![CDATA[NukeViet 4.0 RC3 dự kiến là bản phát hành cuối cùng của chuỗi các bản RC (Release Candidate - Phiên bản ứng viên). Nếu không có sự cố và lỗi nghiêm trọng, NukeViet 4.0 Final sẽ có mặt sau 2 tuần nữa!]]></message>
-	<link><![CDATA[https&#x3A;&#x002F;&#x002F;github.com&#x002F;nukeviet&#x002F;update&#x002F;blob&#x002F;to-4.0.28&#x002F;README.md]]></link>
-	<updateable><![CDATA[4.0.28]]></updateable>
-	<updatepackage><![CDATA[7]]></updatepackage>
+	<name><![CDATA[NukeViet CMS 4.0 Official]]></name>
+	<version><![CDATA[4.0.29]]></version>
+	<date><![CDATA[Wed, 18 May 2016 17:00:00 GMT]]></date>
+	<message><![CDATA[NukeViet 4.0 Official - bản ổn định đầu tiên của dòng phiên bản NukeViet 4.0 chính thức ra mắt]]></message>
+	<link><![CDATA[https&#x3A;&#x002F;&#x002F;nukeviet.vn&#x002F;]]></link>
+	<updateable><![CDATA[]]></updateable>
+	<updatepackage><![CDATA[]]></updatepackage>
 </cms>

@@ -5,7 +5,7 @@
  * @Author VINADES.,JSC (contact@vinades.vn)
  * @Copyright (C) 2016 VINADES.,JSC. All rights reserved
  * @License GNU/GPL version 2 or any later version
- * @Createdate Mon, 16 May 2016 04:36:59 GMT
+ * @Createdate Wed, 25 May 2016 08:44:25 GMT
  */
 
 if ( ! defined( 'NV_MAINFILE' ) ) die( 'Stop!!!' );
@@ -34,7 +34,6 @@ define('NV_EOL', "\r\n");
 define('NV_UPLOAD_MAX_FILESIZE', 2097152);
 $global_config['admfirewall']=0;
 $global_config['admin_check_pass_time']=1800;
-$global_config['adminrelogin_max']=3;
 $global_config['allow_sitelangs']=array('vi');
 $global_config['allowloginchange']=0;
 $global_config['allowmailchange']=1;
@@ -105,13 +104,13 @@ $global_config['site_timezone']='byCountry';
 $global_config['spadmin_add_admin']=1;
 $global_config['ssl_https']=0;
 $global_config['str_referer_blocker']=0;
-$global_config['timestamp']=4;
+$global_config['timestamp']=5;
 $global_config['upload_alt_require']=1;
 $global_config['upload_auto_alt']=1;
 $global_config['upload_checking_mode']='mild';
 $global_config['useactivate']=2;
 $global_config['user_check_pass_time']=1800;
-$global_config['version']='4.0.27';
+$global_config['version']='4.0.29';
 $global_config['whoviewuser']=2;
 $global_config['check_rewrite_file']=1;
 $global_config['allow_request_mods']=array('get','post','cookie','session','request','env','server');
@@ -121,7 +120,6 @@ $global_config['send_errors_list']=256;
 $global_config['error_log_path']='data/logs/error_logs';
 $global_config['error_log_filename']='error_log';
 $global_config['error_log_fileext']='log';
-$global_config['array_theme_type']=array(0=>'r', 1=>'d', 2=>'m');
 $global_config['allowed_html_tags']=array('embed','object','param','a','b','blockquote','br','caption','col','colgroup','div','em','h1','h2','h3','h4','h5','h6','hr','i','img','li','p','span','strong','sub','sup','table','tbody','td','th','tr','u','ul','ol','iframe','figure','figcaption','video','audio','source','track','code','pre');
 $global_config['engine_allowed']=array('Google'=>array('host_pattern'=>'google.', 'query_param'=>'q'), 'Yahoo'=>array('host_pattern'=>'yahoo.', 'query_param'=>'p'), 'MSN'=>array('host_pattern'=>'search.msn', 'query_param'=>'q'), 'Localhost'=>array('host_pattern'=>'localhost', 'query_param'=>'q'));
 
